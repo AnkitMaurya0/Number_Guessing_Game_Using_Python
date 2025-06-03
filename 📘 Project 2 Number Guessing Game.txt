@@ -1,0 +1,27 @@
+📘 Project 2: Number Guessing Game
+
+✅ Purpose:
+Make a game where the computer selects a number, and the user keeps guessing until correct.
+
+🧠 Concepts Used:
+
+1. random module:
+   ➤ Used to generate random numbers.
+   ➤ Syntax: random.randint(start, end)
+
+2. Variables:
+   ➤ Store values like secret_number and guess.
+
+3. while loop:
+   ➤ Repeats a block of code while a condition is true.
+   ➤ Used here to keep asking the user to guess.
+
+4. if-elif-else statements:
+   ➤ Checks multiple conditions.
+   ➤ Tells user if their guess is too low, too high, or correct.
+
+🛠 Example Output:
+Guess a number between 1 and 10: 5
+Too high! Try again.
+Guess a number between 1 and 10: 3
+🎉 Congratulations! You guessed it right.
